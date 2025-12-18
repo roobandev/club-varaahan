@@ -55,7 +55,7 @@ A modern, responsive **luxury resort & wellness website** built using **HTML, CS
 
 ## 🌐 Live Demo
 
-🔗 **Live Site:** [https://your-usernamewww.github.io/club-varaagam/](https://your-username.github.io/club-varaagam/)
+🔗 **Live Site:** https://roobandev.github.io/cl/index.html
 
 ---
 
